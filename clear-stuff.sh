@@ -1,1 +1,4 @@
-rm mindfighter-novella-ru.aux mindfighter-novella-ru.log mindfighter-novella-ru.toc missfont.log 2>/dev/null
+rm  mindfighter-novel-ru.aux \
+    mindfighter-novel-ru.toc \
+    *.log \
+    2>/dev/null
