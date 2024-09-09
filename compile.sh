@@ -1,1 +1,2 @@
-pdflatex mindfighter-novel-ru.tex && pdflatex mindfighter-novel-ru
+pdflatex mindfighter-novella-ru.tex &&
+pdflatex mindfighter-novella-ru
